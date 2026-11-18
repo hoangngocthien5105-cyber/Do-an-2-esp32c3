@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:PATH};E:\\Hoang_Ngoc_Thien_copySSD\\Git\\Git\\cmd"
+    },
+    "git.path": "E:\\Hoang_Ngoc_Thien_copySSD\\Git\\Git\\cmd\\git.exe"
+}
